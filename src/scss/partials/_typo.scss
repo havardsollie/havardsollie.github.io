@@ -1,0 +1,29 @@
+@import "./colors";
+
+body {
+  font-family: 'Genos', sans-serif;
+  font-family: 'Saira Condensed', sans-serif;
+}
+
+h1, nav {
+  font-family: 'Comfortaa', cursive;
+}
+
+h2 {
+  color: #dbaf69;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  color: #404347;
+  width: 60%;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
