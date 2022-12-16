@@ -11,7 +11,6 @@ import Sneaky from "../../images/sneaky.png";
 export default function HomePage() {
   return (
     <>
-      <h3>Welcome!</h3>
         <section className="welcome">
           <div>
             <h4>I am a Frontend-developer, based in Oslo, Norway. I have studied at Noroff university college to gain my skills in frontend developing.</h4>
